@@ -1,4 +1,4 @@
-# rm -rf go-proxy-bingai* #移除＃以升级版本
+rm -rf go-proxy-bingai* #移除＃以升级版本
 if [ ! -f "go-proxy-bingai" ];then
   echo Replit一键部署Go-Proxy-BingAI
   echo By The 一只鬆
