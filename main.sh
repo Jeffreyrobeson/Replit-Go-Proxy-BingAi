@@ -1,7 +1,7 @@
 rm -rf go-proxy-bingai* #移除＃以升级版本
 if [ ! -f "go-proxy-bingai" ];then
   echo Replit一键部署Go-Proxy-BingAI
-  echo By The 一只鬆
+  echo By The jeffreyrobeson
   echo 仓库开源地址：https://github.com/Jeffreyrobeson/Replit-Go-Proxy-BingAi
   curl -L https://github.com/jeffreyrobeson/go-proxy-vbingai/releases/download/go-proxy-vbingai/go-proxy-bingai-linux-amd64.tar.gz -o bingai.tar.gz
   tar -zxvf bingai.tar.gz
